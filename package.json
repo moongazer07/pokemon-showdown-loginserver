@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@types/node": "^15.12.4",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "eslint-plugin-import": "^2.24.2",
     "google-auth-library": "^6.0.0",
     "mysql2": "^2.3.3",
